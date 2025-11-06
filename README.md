@@ -1,1 +1,2 @@
 # newstage
+of smth new
